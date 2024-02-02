@@ -1,7 +1,7 @@
 const path = require("path");
 
-const rootDir = path.dirname(require.main.filename)
+const rootDirc = path.dirname(require.main.filename)
 
-module.exports = rootDir;
+module.exports = rootDirc;
 
  
